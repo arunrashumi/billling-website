@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150" width="200" height="150">
+  <rect width="200" height="150" fill="#f8f4ee"/>
+  <ellipse cx="80" cy="78" rx="28" ry="14" fill="#8b6914" stroke="#6b4f1a" stroke-width="1.5"/>
+  <ellipse cx="80" cy="78" rx="12" ry="6" fill="#a08030"/>
+  <ellipse cx="120" cy="82" rx="28" ry="14" fill="#8b6914" stroke="#6b4f1a" stroke-width="1.5"/>
+  <ellipse cx="120" cy="82" rx="12" ry="6" fill="#a08030"/>
+  <text x="100" y="140" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#5c4a1a">Vada</text>
+</svg>
